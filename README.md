@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davis</h1>
-<h3 align="center">Fullstack Developer | Indie Game Developer</h3>
+<h3 align="center">Fullstack Web Developer | Indie Game Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
