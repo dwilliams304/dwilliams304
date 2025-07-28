@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Davis</h1>
 <h3 align="center">Fullstack Developer | Indie Game Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Python, C#, C++, .NET**
+- 🌱 I love working with JavaScript/TypeScript, React, C#, .NET, and am currently learning some C++.
+
+- I have a huge passion for both building games, and making websites. I've been developing various projects on the side for close to 5 years now, and am always trying to learn some new tech.
 
 - 👨‍💻 All of my projects are available at [https://daviswilliams-portfolio.vercel.app/](https://daviswilliams-portfolio.vercel.app/)
 
